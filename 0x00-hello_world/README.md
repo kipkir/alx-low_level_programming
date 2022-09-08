@@ -1,1 +1,1 @@
-using the funtion printf to print
+prints the size of various types on the computer
