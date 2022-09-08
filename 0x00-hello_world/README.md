@@ -1,1 +1,1 @@
-a script that runs a C file through the preprocessor and save the results into a file
+a script that assemles the code and saves it as an output file
