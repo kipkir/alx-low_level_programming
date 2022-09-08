@@ -1,1 +1,1 @@
-a script that assemles the code and saves it as an output file
+script that compiles a C file and creates an executable file
