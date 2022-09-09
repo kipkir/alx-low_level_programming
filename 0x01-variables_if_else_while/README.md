@@ -1,1 +1,1 @@
-prints alphabet in lowercase followed by a new line
+prints alphabets in lowercase the upercase followed by a new line
