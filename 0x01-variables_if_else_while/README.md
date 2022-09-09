@@ -1,1 +1,1 @@
-print last digit of a number stored
+prints alphabet in lowercase followed by a new line
