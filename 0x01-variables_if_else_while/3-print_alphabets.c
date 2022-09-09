@@ -1,6 +1,7 @@
 #include <stdio.h>
+
 /**
- * main - Entry point
+ * main - lowercase and uppercase
  *
  * Return: Always 0
  */
