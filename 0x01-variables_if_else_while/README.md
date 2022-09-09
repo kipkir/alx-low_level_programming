@@ -1,1 +1,1 @@
-print whether the number stored is positive or negative
+print last digit of a number stored
