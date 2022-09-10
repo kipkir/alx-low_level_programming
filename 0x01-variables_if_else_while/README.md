@@ -1,1 +1,1 @@
-prints alphabets in lowercase the upercase followed by a new line
+script that prints all letters except q and e in lowercase
