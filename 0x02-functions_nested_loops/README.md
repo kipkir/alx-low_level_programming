@@ -1,1 +1,1 @@
-checks alphabetic character either uppercase or lowercase
+print the sign of number
