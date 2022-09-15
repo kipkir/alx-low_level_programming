@@ -1,1 +1,1 @@
-comment out but do not delete it the part of the code that is causing the output to go into an infinite loop
+program that converts a date to the day of the year and determines how many dyas are left in the year taking leap year into consideration
