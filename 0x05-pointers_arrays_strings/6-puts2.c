@@ -1,4 +1,5 @@
 #include <unistd.h>
+#include <stdio.h>
 #include "main.h"
 /**
  * puts2 - prints every other character of a string
@@ -15,9 +16,9 @@ void puts2(char *str)
 	{
 		if (i % 2 == 0)
 		{
-		_putchar(str[i]);
+		putchar(str[i]);
 		}
 		i++;
 	}
-	_putchar('\n');
+	putchar('\n');
 }
