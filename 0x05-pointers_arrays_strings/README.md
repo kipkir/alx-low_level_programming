@@ -1,1 +1,1 @@
-prints a string in reverse followed by a new line
+prints n elements of an array of intergers followed by a new line
