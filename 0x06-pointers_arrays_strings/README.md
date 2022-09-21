@@ -1,1 +1,1 @@
-changes all lowercase letters of a string to uppercase
+capitalizes all words of a string
