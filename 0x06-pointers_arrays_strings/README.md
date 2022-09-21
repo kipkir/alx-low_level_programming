@@ -1,1 +1,1 @@
-concatenates two string but add inputted number of bytes
+function that copies a string and should work exactly like strncpy
