@@ -1,1 +1,1 @@
-function that fills the memory with a constant byte
+function that coies memory area
