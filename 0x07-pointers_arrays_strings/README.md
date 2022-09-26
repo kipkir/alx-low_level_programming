@@ -1,1 +1,1 @@
-function that locates a character in a string
+gets length of a pefix substring
