@@ -1,1 +1,1 @@
-function that coies memory area
+function that locates a character in a string
